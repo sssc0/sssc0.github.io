@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-07-21T04:08:43.752Z</updated>
+  <updated>2023-07-21T04:19:05.531Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日常</title>
+    <link href="http://example.com/2023/07/21/Java/"/>
+    <id>http://example.com/2023/07/21/Java/</id>
+    <published>2023-07-21T04:17:15.000Z</published>
+    <updated>2023-07-21T04:19:05.531Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="java"><a href="#java" class="headerlink" title="java"></a>java</h1><p>之前在尚硅谷看的java基础视频看到500多集后面因为某种原因没看了，后面会补上笔记。</p><p>#uniapp</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h1&gt;&lt;p&gt;之前在尚硅谷看的java基础视频看到500多集后面因为某种原因没看了，后面会补上笔记。&lt;/p&gt;
+&lt;p&gt;#uniapp&lt;/p&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>vuecli的基本搭建</title>
